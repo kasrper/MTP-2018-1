@@ -1,3 +1,5 @@
+//Kátia S R Pereira
+//11711ETE023
 #include <stdio.h>
 float potencia (int base, int exp)
 {
