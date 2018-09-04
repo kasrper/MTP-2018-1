@@ -1,5 +1,6 @@
+//Kátia S R Pereira
+//11711ETE023
 #include <stdio.h>
-
 
 int main() {
 	char s[256];
