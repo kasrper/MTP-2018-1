@@ -1,3 +1,5 @@
+//Kátia S R Pereira
+//11711ETE023
 #include <stdio.h>
 int A(int a, int b){
     if (a==0){
