@@ -1,4 +1,4 @@
-//Kátia S R Pereira
+//KÃ¡tia S R Pereira
 //11711ETE023
 #include <stdio.h>
 int bin_dec(char binario[]){
